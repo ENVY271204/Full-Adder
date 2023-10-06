@@ -1,2 +1,2 @@
-# Full-Adder
-Full Adder implementation in verilog with testbench
+# Ripple-Carry-Adder
+Ripple Carry Adder implementation in verilog with testbench
